@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header-section */
+.header-section {
+  margin: 0 0 50px;
+}
+
+/* welcome-banner */
+.welcome-banner{
+  margin: 0 0 50px;
+}
+.carousel-item{
+  padding: 20px 40px;
+}
+.carousel-item h3 {
+  font-size: 41px;
+  color: #ff136f;
+}
+.orange-bg{
+  background-color: #fceaef;
+  border-radius: 10px;
+}
+.buy-now-button{
+  color: #fff;
+  background-image: linear-gradient(to bottom,#ff5898 0%,#ff136f 100%);
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+
+/* categories */
+.categories{
+  margin: 0 0 50px;
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.categories h1{
+  color: #fff;
+}
+.categories img{
+  width: 120px;
+}
+.cat1{
+  background-color: orange;
+}
+.cat2{
+  background-color: orchid;
+}
+.cat3{
+  background-color: blue;
+}
+
+/* shoes-section */
+.shoes-section{
+  margin: 0 0 50px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  background-color: #fff;
+  border-top: none;
+}
+
+/* shoes-section */
+.backpack-section{
+  margin: 0 0 50px;
+}
+
+/* shoes-section */
+.subscription-content{
+  margin: 0 0 50px;
+  height: 300px;
+  background-color: #fceaef;
+  border-radius: 10px;
+}
+
+/* footer-section */
+.footer-section{
+  text-align: center;
+}
